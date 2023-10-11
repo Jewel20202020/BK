@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.container{
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    border: 2px solid grey;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+h1{
+    margin-top: 20px;
+}
+p{
+    font-weight: 400;
+}
+.input-box input {
+    width: 250px;
+    border: 2px solid black;
+    height: 25px;
+}
+#message{
+    border: 2px solid black;
+}
+.submit input{
+    margin-bottom: 20px;
+    margin-left: 200px;
+    background: green;
+}
